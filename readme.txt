@@ -11,3 +11,4 @@ Adding a line to test Git diff
 Adding a line to test Git merge
 Merge
 Merge2
+Merge3
