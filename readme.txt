@@ -9,3 +9,4 @@ Adding another line to test a 3rd commit
 Adding a line to test Git diff
 
 Adding a line to test Git merge
+Merge
